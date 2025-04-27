@@ -64,7 +64,7 @@ docker-compose up
 
 ### 2. Accéder à l'API
 
-- Ton navigateur à l'adresse suivante :
+- Aller à l'url suivante :
 
 
 http://localhost:8000
